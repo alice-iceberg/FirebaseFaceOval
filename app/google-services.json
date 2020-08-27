@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "924805403499",
+    "firebase_url": "https://stdd-client.firebaseio.com",
+    "project_id": "stdd-client",
+    "storage_bucket": "stdd-client.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924805403499:android:1a56c8bfda0d732a97b22e",
+        "android_client_info": {
+          "package_name": "com.example.musicfrombroadcastrcvr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924805403499-b4a9fdsp5k1iqjq54stjf6num00d6u1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqKIKKHAAU2vAd-wCInmYA2EpzKiiFQys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924805403499-b4a9fdsp5k1iqjq54stjf6num00d6u1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
