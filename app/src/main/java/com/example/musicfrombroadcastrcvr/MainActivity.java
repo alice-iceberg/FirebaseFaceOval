@@ -44,6 +44,7 @@ public class MainActivity extends AppCompatActivity {
         FaceDetectorOptions options =
                 new FaceDetectorOptions.Builder()
                         .setContourMode(FaceDetectorOptions.CONTOUR_MODE_ALL)
+                        .setClassificationMode(FaceDetectorOptions.CLASSIFICATION_MODE_ALL)
                         .build();
 
         final Bitmap bitmap_photo = BitmapFactory.decodeResource(this.getResources(), R.drawable.woman);
